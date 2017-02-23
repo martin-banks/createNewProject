@@ -1,0 +1,23 @@
+{
+  "name": "createNewProject",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/martin-banks/createNewProject.git"
+  },
+  "keywords": [],
+  "author": "Martin Banks",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/martin-banks/createNewProject/issues"
+  },
+  "homepage": "https://github.com/martin-banks/createNewProject#readme",
+  "devDependencies": {
+    "mkdirp": "^0.5.1"
+  }
+}
